@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "dcrops:block/psilocybin_stage1"
+  }
+}

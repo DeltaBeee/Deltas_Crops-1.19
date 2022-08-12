@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "age=0": { "model": "dcrops:block/psilocybin_stage0" },
+    "age=1": { "model": "dcrops:block/psilocybin_stage1" },
+    "age=2": { "model": "dcrops:block/psilocybin_stage2" },
+    "age=3": { "model": "dcrops:block/psilocybin_stage3" },
+    "age=4": { "model": "dcrops:block/psilocybin_stage4" },
+    "age=5": { "model": "dcrops:block/psilocybin_stage5" },
+    "age=6": { "model": "dcrops:block/psilocybin_stage6" }
+  }
+}

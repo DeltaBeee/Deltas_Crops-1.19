@@ -1,0 +1,52 @@
+{
+  "block.dcrops.cocaine_bricks": "Cocaine Bricks",
+
+  "block.dcrops.advanced_refinery": "Advanced Refinery",
+  "block.dcrops.refinery": "Refinery",
+  "block.dcrops.grinder": "Grinder",
+  "block.dcrops.chemistry_table": "Chemistry Table",
+
+  "block.dcrops.cannabis_crop": "Weed Boosh",
+  "block.dcrops.psilocybin_crop": "Shrooms",
+  "block.dcrops.coca_crop": "Coca Cola Secret Ingredient",
+  "block.dcrops.ephedra_crop": "Ephedra Plont",
+  "block.dcrops.ginger_crop": "Red Haired Crop",
+  "block.dcrops.opium_crop": "Opioid Plant",
+  "block.dcrops.sassafras_crop": "Sassafras Sapling (shut up ik roots come from mature trees)",
+
+  "item.dcrops.cannabis": "Cannabis",
+  "item.dcrops.cannabis_seeds": "Cannabis Seeds",
+  "item.dcrops.ginger": "Ginger",
+  "item.dcrops.psilocybin": "Psilocybin",
+  "item.dcrops.psilocybin_spores": "Psilocybin Spores",
+  "item.dcrops.coca_leaf": "Coca Leaf",
+  "item.dcrops.coca_seeds": "Coca Seeds",
+  "item.dcrops.ephedra_clippings": "Ephedra Clippings",
+  "item.dcrops.ephedra_fruits": "Ephedra Fruits",
+  "item.dcrops.opium_poppy": "Opium Poppy",
+  "item.dcrops.opium_pod": "Opium Seed Pod",
+  "item.dcrops.opium_seeds": "Opium Seeds",
+  "item.dcrops.sassafras_roots": "Sassafras Roots",
+  "item.dcrops.sassafras_seed": "Sassafras Seed",
+
+  "item.dcrops.dried_cannabis": "Dried Cannabis",
+  "item.dcrops.dried_cannabis_brick": "Dried Cannabis Brick",
+  "item.dcrops.cocaine": "Cocaine",
+  "item.dcrops.copper_wire": "Copper Wire",
+
+  "item.dcrops.pill_bottle": "Pill Bottle",
+  "item.dcrops.antihistamines": "Antihistamines",
+  "item.dcrops.opioids": "Opioids",
+
+  "item.dcrops.syringe": "Syringe",
+  "item.dcrops.heroin": "Heroin",
+
+  "item.dcrops.joint": "Joint",
+
+  "effect.dcrops.antihistamines": "Antihistamines",
+  "effect.dcrops.numbed": "Numbed",
+
+  "itemGroup.dcrops_tab": "Delta's Crops",
+  "itemGroup.dmisc_tab": "Delta's Miscellaneous",
+  "itemGroup.ddrugs_tab": "Delta's Drugs"
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "dcrops:block/advanced_refinery" },
+    "facing=east": { "model": "dcrops:block/advanced_refinery", "y": 90 },
+    "facing=south": { "model": "dcrops:block/advanced_refinery", "y": 180 },
+    "facing=west": { "model": "dcrops:block/advanced_refinery", "y": 270 }
+  }
+}
